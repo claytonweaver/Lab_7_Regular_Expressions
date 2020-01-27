@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\bin\Debug\netcoreapp2.2\Regular_Expression_Lab_7.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\bin\Debug\netcoreapp2.2\Regular_Expression_Lab_7.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\bin\Debug\netcoreapp2.2\Regular_Expression_Lab_7.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\bin\Debug\netcoreapp2.2\Regular_Expression_Lab_7.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\bin\Debug\netcoreapp2.2\Regular_Expression_Lab_7.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Regular_Expression_Lab_7\obj\Debug\netcoreapp2.2\Regular_Expression_Lab_7.pdb
